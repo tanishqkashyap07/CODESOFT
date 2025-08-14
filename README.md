@@ -122,11 +122,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
+👨‍💻 Made By
 
-## 📜 License
+Tanishq Kashyap
+📧 Email: tanishq17k@gmail.com
+🖥️ linkdin : https://www.linkedin.com/in/tanishq-kashyap-69439b34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-This project is open-source and available under the MIT License.
 
----
 
